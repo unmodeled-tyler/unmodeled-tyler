@@ -11,7 +11,7 @@
 <a href="https://x.com/unmodeledtyler">
   <img src="https://img.shields.io/badge/@unmodeledtyler-black?style=for-the-badge&logo=x" />
 </a>
-<a href="https://huggingface.co/yourname">
+<a href="https://huggingface.co/unmodeled-tyler">
   <img src="https://img.shields.io/badge/Hugging%20Face-@unmodeledtyler-yellow?style=for-the-badge&logo=huggingface" />
 </a>
 </p>
