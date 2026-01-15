@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1e2d74d-15dd-4f00-8d1b-43943c984e1f" alt="GitHub Profile README" />
+  <img src="https://github.com/user-attachments/assets/88c1d28a-4b81-4733-b5de-2a7b5ff520a6" alt="GitHub Profile README" />
 </p>
 
 
