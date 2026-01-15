@@ -37,7 +37,7 @@
  If you'd like to reach out for any reason, feel free to do so over email or X. For faster responses, use X.
  
  <div align="left">
-<img src="https://unmodeled-tyler-github-readme-stats.hf.space/api?username=unmodeled-tyler&theme=nord" /> 
+<img src="https://unmodeled-tyler-github-readme-stats.hf.space/api?username=unmodeled-tyler&theme=nord&include_all_commits=true" /> 
 </div>
 
 
