@@ -1,4 +1,55 @@
-## Hi there 👋
+
+<h1 align="center">Welcome!</h1>
+
+<div align="center">
+<a href="mailto:unmodeled.tyler@proton.me">
+  <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=maildotru" />
+</a>
+<a href="https:unmodeledtyler.com">
+  <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefox" />
+</a>
+<a href="https://x.com/unmodeledtyler">
+  <img src="https://img.shields.io/badge/@unmodeledtyler-black?style=for-the-badge&logo=x" />
+</a>
+<a href="https://huggingface.co/yourname">
+  <img src="https://img.shields.io/badge/Hugging%20Face-@unmodeledtyler-yellow?style=for-the-badge&logo=huggingface" />
+</a>
+</p>
+</div>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1e2d74d-15dd-4f00-8d1b-43943c984e1f" alt="GitHub Profile README" />
+</p>
+
+
+
+
+
+
+
+
+ My name is Tyler and I'm an AI research engineer in Portland. Most of my work is open source which can be found  on GitHub or Hugging Face. When I'm not finetuning language models, I'm building AI systems, tools, and research prototypes focused on cognition, human-AI collaboration, and model behavior. 
+
+ 
+ If you'd like to reach out for any reason, feel free to do so over email or X. For faster responses, use X.
+ 
+ 
+ ---
+ <div align="center">
+   
+   *Forging synthetic intelligence in the City of Roses*
+ 
+ </div>
+
+
+
+ 
+
+I
+
+ 
+ 
+
 
 <!--
 **unmodeled-tyler/unmodeled-tyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
