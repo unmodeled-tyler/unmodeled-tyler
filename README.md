@@ -5,7 +5,7 @@
 <a href="mailto:unmodeled.tyler@proton.me">
   <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=maildotru" />
 </a>
-<a href="https:unmodeledtyler.com">
+<a href="https://unmodeledtyler.com">
   <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefox" />
 </a>
 <a href="https://x.com/unmodeledtyler">
