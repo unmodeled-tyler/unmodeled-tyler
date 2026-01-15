@@ -31,7 +31,7 @@
 
 
 
- My name is Tyler and I'm an AI research engineer in Portland. Most of my work is open source which can be found  on GitHub or Hugging Face. When I'm not finetuning language models, I'm building AI systems, tools, and research prototypes focused on cognition, human-AI collaboration, and model behavior. 
+ My name is Tyler and I'm an AI research engineer in Portland. Most of my work is open source which can be found  on GitHub or Hugging Face. When I'm not finetuning language models under VANTA Research, I'm building AI systems, tools, and research prototypes focused on cognition, human-AI collaboration, and model behavior. 
 
  
  If you'd like to reach out for any reason, feel free to do so over email or X. For faster responses, use X.
