@@ -34,12 +34,6 @@
  If you'd like to reach out for any reason, feel free to do so over email or X. For faster responses, use X.
  
  
- ---
- <div align="center">
-   
-   *Forging synthetic intelligence in the City of Roses*
- 
- </div>
 
 
 
