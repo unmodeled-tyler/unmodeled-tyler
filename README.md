@@ -33,7 +33,11 @@
 
  My name is Tyler and I'm an AI research engineer in Portland. Most of my work is open source which can be found  on GitHub or Hugging Face. When I'm not finetuning language models under VANTA Research, I'm building AI systems, tools, and research prototypes focused on cognition, human-AI collaboration, and model behavior. 
 
- Currently, I'm building Vessel Browser - an AI-first web browser designed for harnesses such as Hermes Agent or OpenClaw. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent is able to curate a web browsing experience specifically for the user with the context and information in Hermes Agent or OpenClaw. This project is rapidly evolving and gets better and better each day. Check back often!
+ Currently, I'm building Vessel Browser - an AI-first web browser designed for harnesses such as Hermes Agent or OpenClaw. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent is able to curate a web browsing experience specifically for the user with the context and information in Hermes Agent or OpenClaw. 
+
+Machine learning algorithms designed and operated by large tech companies power and steer our attention online. Vessel Browser strives to reclaim user agency on the internet by shifting the algorithm off the cloud and to your local device.   
+ 
+This project is rapidly evolving and gets better and better each day. Check back often!
 
  
  If you'd like to reach out for any reason, feel free to do so over email or X. For faster responses, use X.
