@@ -35,7 +35,7 @@
 
  Currently, I'm building Vessel Browser - an AI-first web browser designed for harnesses such as Hermes Agent or OpenClaw. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent is able to curate a web browsing experience specifically for the user with the context and information in Hermes Agent or OpenClaw. 
 
-Machine learning algorithms designed and operated by large tech companies power and steer our attention online. Vessel Browser strives to reclaim user agency on the internet by shifting the algorithm off the cloud and to your local device.   
+Machine learning algorithms designed and operated by large tech companies power and steer our attention online. Vessel Browser strives to reclaim user agency on the internet by shifting the algorithm off the cloud and onto your local device.   
  
 This project is rapidly evolving and gets better and better each day. Check back often!
 
