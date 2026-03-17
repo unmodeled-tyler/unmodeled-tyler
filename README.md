@@ -43,8 +43,7 @@ Vessel Browser strives to reclaim user agency online by shifting the algorithm o
  
 This project is rapidly evolving and gets better and better each day. Check back often!
 
- 
- If you'd like to reach out for any reason, feel free to do so over email or X. For faster responses, use X.
+Email me for collaborations!
  
 
 
