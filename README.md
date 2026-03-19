@@ -37,7 +37,7 @@ I'm the solo operator of VANTA Research - Oregon's only independent, homegrown A
 
 Most recently, I solo founded Quanta Intellect, LLC which is an AI-native software company built for a future in which stateful AI harnesses are the default in personal/enterprise computing. 
 
-Currently, I'm building Vessel Browser - a web browser designed for harnesses such as Hermes Agent or OpenClaw. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent curates a web browsing experience specifically for the user with the context and information built over time in Hermes Agent or OpenClaw. 
+Currently, I'm building Vessel Browser - a web browser designed for harnesses such as Hermes Agent or OpenClaw with support for BYOK API providers. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent curates a web browsing experience specifically for the user with the context and information built over time in Hermes Agent or OpenClaw. 
 
 Vessel Browser strives to reclaim user agency online by shifting the algorithm off of platform clouds and onto your local device.    
  
