@@ -33,7 +33,7 @@
 
  My name is Tyler and I'm an AI research engineer based in Portland. Most of my work is open source which can be found  on GitHub or Hugging Face. When I'm not finetuning language models under VANTA Research, I'm building AI systems, tools, and research prototypes focused on cognition, human-AI collaboration, and model behavior. 
 
-I'm the solo operator of VANTA Research - Oregon's only independent, homegrown AI research organization - where I've finetuned over 20 original models for 3 different model families. Most notably Project Atom, Project Enneagram, and VANTA Research Entities. All of that work is open source, generally available, and permissively licensed. VANTA Research's model portfolio has been downloaded thousands of times across the world, and optimized for human-AI collaboration. That work can be found [here.](https://huggingface.co/vanta-research)
+I'm the solo operator of VANTA Research - Oregon's only independent, homegrown AI research organization - where I've finetuned over 20 original models for 3 different model families. Most notably Project Atom, Project Enneagram, and VANTA Research Entities. All of that work is open source, generally available, and permissively licensed. VANTA Research's model portfolio has been downloaded thousands of times across the world, and are optimized for high fidelity human-AI collaboration. That work can be found [here.](https://huggingface.co/vanta-research)
 
 Most recently, I've founded Quanta Intellect, LLC which is an AI-native software company built for a future in which stateful AI harnesses are the default in personal/enterprise computing. 
 
