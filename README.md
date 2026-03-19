@@ -35,7 +35,7 @@
 
 I'm the solo operator of VANTA Research - Oregon's only independent, homegrown AI research organization - where I've finetuned over 20 original models for 3 different model families. Most notably Project Atom, Project Enneagram, and VANTA Research Entities. All of that work is open source, generally available, and permissively licensed. VANTA Research's model portfolio has been downloaded thousands of times across the world, and are optimized for high fidelity human-AI collaboration. That work can be found [here.](https://huggingface.co/vanta-research)
 
-Most recently, I've founded Quanta Intellect, LLC which is an AI-native software company built for a future in which stateful AI harnesses are the default in personal/enterprise computing. 
+Most recently, I solo founded Quanta Intellect, LLC which is an AI-native software company built for a future in which stateful AI harnesses are the default in personal/enterprise computing. 
 
 Currently, I'm building Vessel Browser - a web browser designed for harnesses such as Hermes Agent or OpenClaw. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent curates a web browsing experience specifically for the user with the context and information built over time in Hermes Agent or OpenClaw. 
 
