@@ -42,7 +42,6 @@ Currently, I'm building Vessel Browser - a web browser designed for harnesses su
  
 This project is rapidly evolving and gets better and better each day. Check back often!
 
-Feel free to reach out through email.
  
 
 
