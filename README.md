@@ -4,7 +4,7 @@
 <div align="center">
    
 
-<a href="mailto:unmodeled.tyler@proton.me">
+<a href="mailto:unmodeled.tyler@gmail.com">
   <img src="https://img.shields.io/badge/Email-darkblue?style=for-the-badge&logo=maildotru" />
 </a>
 <a href="https://unmodeledtyler.com">
@@ -16,8 +16,10 @@
 <a href="https://huggingface.co/unmodeled-tyler">
   <img src="https://img.shields.io/badge/Hugging%20Face-@unmodeledtyler-yellow?style=for-the-badge&logo=huggingface" />
 </a>
+<a href="https://ghcommits.com/u/unmodeled-tyler"><img src="https://ghcommits.com/api/badge/unmodeled-tyler.svg" alt="GitHub Commits Badge" /></a>
 </p>
 </div>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d27af15-c589-46f3-a20f-14a2e2e4c173" alt="GitHub Profile README" />
