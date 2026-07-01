@@ -16,7 +16,7 @@
 <a href="https://huggingface.co/unmodeled-tyler">
   <img src="https://img.shields.io/badge/Hugging%20Face-@unmodeledtyler-yellow?style=for-the-badge&logo=huggingface" />
 </a>
-<a href="https://ghcommits.com/u/unmodeled-tyler"><img src="https://ghcommits.com/api/badge/unmodeled-tyler.svg" alt="GitHub Commits Badge" /></a>
+
 </p>
 </div>
 
