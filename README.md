@@ -42,6 +42,8 @@ Most recently, I solo founded Quanta Intellect, LLC which is an AI-native softwa
 Currently, I'm building Vessel Browser - a web browser designed for harnesses such as Hermes Agent or OpenClaw with support for BYOK API providers. Vessel Browser is a living project, and strives to center the browsing experience around the agent rather than the human. Through this, the agent curates a web browsing experience specifically for the user with the context and information built over time in Hermes Agent or OpenClaw. right now, [Vessel Browser](https://github.com/unmodeled-tyler/vessel-browser) is available on Linux, Mac, and Windows. 
 
 Outside of my own work, I've contributed to [Hermes-Agent](https://github.com/NousResearch/Hermes-Agent) and other open source tools I regularly use. 
+
+I'm available for short-term/long-term contracts or regular employment. 
  
 Email me: unmodeled.tyler@gmail.com
 
